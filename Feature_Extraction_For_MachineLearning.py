@@ -1,6 +1,5 @@
 import cv2
 import imutils
-import matplotlib.pyplot as plt
 
 ### cup
 def cup(img) :
