@@ -1,8 +1,9 @@
-# CN240 Machine Learning & Deep Learning
+# CN240 Machine Learning & Deep Learning Glaucoma Classification Project
 
-# รายชื่อสมาชิกกลุ่ม
+## Members
+## Chanoknun Choosaksilp
+## Kittisak Boonchalee
+## Suthichai Chukaew
+## Ravipol Jaemkrajang
 
-## นาย ชนกนันท์ ชูศักดิ์ศิลป์ 6110612998
-## นาย กิตติศักดิ์ บุญชาลี 6110613004
-## นาย สุธิชัย ชูแก้ว 6110613038
-## นาย รวิพล แจ่มกระจ่าง 6110613251
+## This repository contains boths machine learning and deep learning with accuracy 0.68
